@@ -175,7 +175,7 @@ export const birthdayData: BirthdayData = {
     title: "Buon compleanno, brodino.",
     subtitle: "Il bello deve ancora iniziare.",
     authorSign: "— Il tuo amico di sempre",
-    finalPhoto: "/photos/final.jpg"
+    finalPhoto: "photos/final.jpg"
   },
 
   easterEgg: {
