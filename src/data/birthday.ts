@@ -32,7 +32,7 @@ export const birthdayData: BirthdayData = {
       title: "L'inizio di tutto",
       text: "Prima foto che ho trovato che conferma il fatto che male che va ci conosciamo già da 13 anni, più di metà della nostra vita...",
       joke: "Una cosa è certa però, sempre stato un'amante della fregna.",
-      image: "/photos/2013.jpg",
+      image: "photos/2013.jpg",
       alt: "Foto ricordo 2013",
       tag: "Origins"
     },
@@ -42,7 +42,7 @@ export const birthdayData: BirthdayData = {
       title: "La maggiore età",
       text: "Il tempo è passato, siamo cresciuti e siamo cambiati un bel po', diventando maggiorenni ma sempre affianco.",
       joke: "Qualcuno durante il percorso lo abbiamo perso, ma le persone importanti restano.",
-      image: "/photos/2019.jpg",
+      image: "photos/2019.jpg",
       alt: "Foto ricordo 2019",
       tag: "Eighteen"
     },
@@ -52,7 +52,7 @@ export const birthdayData: BirthdayData = {
       title: "Le intramontabili Ghluin Kloin",
       text: "Tappa fissa di ogni estate, le nostre Ghluin Kloin, non sarebbe estate senza di loro oramai, mutande false ma amicizia autentica.",
       joke: "Oramai sono con noi dal 2021, quest'anno hanno fatto 5 anni, crazy.",
-      image: "/photos/2022.jpg",
+      image: "photos/2022.jpg",
       alt: "Foto ricordo 2022",
       tag: "Ghluin Kloin"
     },
@@ -62,7 +62,7 @@ export const birthdayData: BirthdayData = {
       title: "Primo viaggio insieme",
       text: "E finalmente dopo tanto tempo abbiamo fatto un viaggio insieme, viaggio che penso non dimenticherò mai, nella piccola isola di Zante ma con grandissimi ricordi.",
       joke: "In soli 5 giorni siamo riusciti a creare un sacco di ricordi, alcuni che rimarranno indelebili.",
-      image: "/photos/2024.jpg",
+      image: "photos/2024.jpg",
       alt: "Foto ricordo 2024",
       tag: "Road Trip"
     },
@@ -72,7 +72,7 @@ export const birthdayData: BirthdayData = {
       title: "Level 25",
       text: "E alla fine siamo arrivati al quarto di secolo. Sembrava una data lontanissima sul calendario.",
       joke: "Statistiche aggiornate: Carisma +5, Caldo +30, Bollente: +100.",
-      image: "/photos/2026.jpg",
+      image: "photos/2026.jpg",
       alt: "Foto ricordo 2026",
       tag: "Now"
     }
@@ -145,7 +145,7 @@ export const birthdayData: BirthdayData = {
     tagline: "E visto che alcune storie meritano di essere raccontate...",
     description: "Un libro che parla di una delle tue grandi passioni, non c'è bisogno di dire quale...",
     note: "Questo è il mio regalo per te.",
-    cover: "/book/copertina-libro.jpg"
+    cover: "book/copertina-libro.jpg"
   },
 
   fakeConclusion: {
@@ -162,8 +162,8 @@ export const birthdayData: BirthdayData = {
   },
 
   video: {
-    src: "/video/birthday-message.mp4",
-    poster: "/photos/birthday-message-poster.jpg",
+    src: "video/birthday-message.mp4",
+    poster: "photos/birthday-message-poster.jpg",
     authorName: "L'Autore",
     title: "Un videomessaggio dedicato",
     note: "Buon compleanno. Questo è per te.",
