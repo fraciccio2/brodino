@@ -100,5 +100,7 @@ export interface BirthdayData {
     unlockedTitle: string;
     unlockedSubtitle: string;
     friendshipLevel: string;
+    image?: string;
+    imageCaption?: string;
   };
 }

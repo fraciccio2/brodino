@@ -180,7 +180,9 @@ export const birthdayData: BirthdayData = {
 
   easterEgg: {
     unlockedTitle: "CHEAT CODE ACTIVATED",
-    unlockedSubtitle: "Codice segreto inserito con successo!",
-    friendshipLevel: "Friendship +100 • Livello Leggenda Sbloccato 🚀"
+    unlockedSubtitle: "File Riservato Sbloccato",
+    friendshipLevel: "Friendship +100 • Livello Leggenda Sbloccato 🚀",
+    image: "photos/easter-egg.jpg",
+    imageCaption: "«Questa era decisamente meglio tenerla privata...»"
   }
 };
