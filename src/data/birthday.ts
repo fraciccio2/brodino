@@ -162,7 +162,7 @@ export const birthdayData: BirthdayData = {
   },
 
   video: {
-    src: "video/birthday-message.mp4",
+    src: "video/birthday-message2.mp4",
     poster: "photos/birthday-message-poster.jpg",
     authorName: "L'Autore",
     title: "Un videomessaggio dedicato",
